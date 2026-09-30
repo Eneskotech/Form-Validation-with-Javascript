@@ -29,3 +29,7 @@ body h1{
 .error {
     color: red;
 }
+.ac{
+    display: block;
+    margin: auto;
+}
